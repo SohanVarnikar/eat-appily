@@ -22,9 +22,10 @@ npm run lint
 No extra dependencies required.
 
 ### Preview
-All Orders.
+All Orders, view all orders together.
 ![Screenshot (194)](https://user-images.githubusercontent.com/58203414/93690374-2735f300-faf5-11ea-926b-3c26373cff5c.png)
 
+Click on respective filters to filter the orders.
 New Orders
 ![Screenshot (195)](https://user-images.githubusercontent.com/58203414/93690427-d1ae1600-faf5-11ea-9d61-aec629e73753.png)
 
