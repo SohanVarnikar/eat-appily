@@ -20,6 +20,6 @@ npm run build
 npm run lint
 ```
 ### Preview
-![alt text](http://url/to/img.png)
+![Screenshot (194)](https://user-images.githubusercontent.com/58203414/93690374-2735f300-faf5-11ea-926b-3c26373cff5c.png)
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
