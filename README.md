@@ -19,6 +19,8 @@ npm run build
 ```
 npm run lint
 ```
+No extra dependencies required.
+
 ### Preview
 All Orders.
 ![Screenshot (194)](https://user-images.githubusercontent.com/58203414/93690374-2735f300-faf5-11ea-926b-3c26373cff5c.png)
@@ -30,6 +32,7 @@ Ready Orders
 ![Screenshot (197)](https://user-images.githubusercontent.com/58203414/93690435-f609f280-faf5-11ea-866a-df792867be08.png)
 
 Orders being prepared
+![Screenshot (196)](https://user-images.githubusercontent.com/58203414/93690455-30738f80-faf6-11ea-9dbf-547f67cb1dda.png)
 
 
 ### Customize configuration
