@@ -1,4 +1,4 @@
-# eat-appily
+# Appizza
 
 ## Project setup
 ```
