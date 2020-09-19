@@ -19,6 +19,7 @@ npm run build
 ```
 npm run lint
 ```
-
+### Preview
+![alt text](http://url/to/img.png)
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
